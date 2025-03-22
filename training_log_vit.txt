@@ -1,0 +1,9 @@
+--- ViT Training Run (2025-03-20 11:45:48) ---
+Model: ViT
+Epochs: 20
+Batch Size: 64
+Learning Rate: 0.0003
+Optimizer: AdamW
+Final Train Loss: 0.5671
+Test Accuracy: 73.42%
+--------------------------------------------------

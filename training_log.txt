@@ -1,0 +1,74 @@
+--- Training Run (2025-03-19 02:01:32) ---
+Model: ResNet-18
+--- Training Run (2025-03-19 02:42:39) ---
+Model: ResNet-18
+Epochs: 10
+Batch Size: 128
+Learning Rate: 0.01
+Optimizer: SGD
+Final Train Loss: 0.7405
+Test Accuracy: 72.33%
+--------------------------------------------------
+--- Training Run (2025-03-19 03:59:32) ---
+Model: ResNet-18
+Epochs: 20
+Batch Size: 128
+Learning Rate: 0.01
+Optimizer: SGD
+Final Train Loss: 0.5396
+Test Accuracy: 75.93%
+--------------------------------------------------
+--- Training Run (2025-03-19 12:11:41) ---
+Model: ResNet-18
+Epochs: 20
+Batch Size: 128
+Learning Rate: 0.005
+Optimizer: SGD
+Final Train Loss: 0.5729
+Test Accuracy: 76.35%
+--------------------------------------------------
+--- Training Run (2025-03-19 16:08:05) ---
+Model: ResNet-18
+Epochs: 20
+Batch Size: 128
+Learning Rate: 0.005
+Optimizer: Adam
+Final Train Loss: 0.8484
+Test Accuracy: 69.44%
+--------------------------------------------------
+--- Training Run (2025-03-19 19:03:19) ---
+Model: ResNet-18
+Epochs: 20
+Batch Size: 64
+Learning Rate: 0.005
+Optimizer: SGD
+Final Train Loss: 0.5466
+Test Accuracy: 77.52%
+--------------------------------------------------
+--- Training Run (2025-03-19 20:08:45) ---
+Model: ResNet-18
+Epochs: 20
+Batch Size: 256
+Learning Rate: 0.005
+Optimizer: SGD
+Final Train Loss: 0.6327
+Test Accuracy: 72.86%
+--------------------------------------------------
+--- Training Run (2025-03-19 23:13:50) ---
+Model: ResNet-18
+Epochs: 20
+Batch Size: 64
+Learning Rate: 0.005
+Optimizer: SGD
+Final Train Loss: 0.5771
+Test Accuracy: 76.95%
+--------------------------------------------------
+--- Training Run (2025-03-20 01:55:32) ---
+Model: ResNet
+Epochs: 20
+Batch Size: 64
+Learning Rate: 0.005
+Optimizer: SGD
+Final Train Loss: 0.5562
+Test Accuracy: 78.26%
+--------------------------------------------------
